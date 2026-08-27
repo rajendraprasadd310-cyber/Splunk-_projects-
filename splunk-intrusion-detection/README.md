@@ -108,6 +108,6 @@ This is an educational cybersecurity project created to demonstrate practical SO
 
 ## Author
 
-**Raju**
+**Rajendra Parasad D**
 
 Cybersecurity / SOC Analyst Portfolio Project
